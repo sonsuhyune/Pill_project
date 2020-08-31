@@ -1,33 +1,22 @@
-<?php 
+<?php
+//$con=mysqli_connect( "localhost", "pill", "pilldb", "pill_info");
+//if(mysql_connect_errno($con)){
+//    echo "Failed to connect to MySQL" . mysqli_connect_error();
+//}
 
-    error_reporting(E_ALL); 
-    ini_set('display_errors',1); 
+//mysqli_set_charset($con, "utf8");
 
-    include('dbcon.php');
-        
+include('dbcon.php');
+$res = mysqli_query($con,"select * from TEST");
 
-    $stmt = $con->prepare('select * from pilltest');
-    $stmt->execute();
+$result = array();
 
-    if ($stmt->rowCount() > 0)
-    {
-        $data = array(); 
+while($row = mysqli_fetch_array($res)){
+        echo json_encode(array("result"=>$result));
+        array_push($result,array('name'=>$row[0],'test1'=>$row[1],'test2'=>$row[2]));
+}
 
-        while($row=$stmt->fetch(PDO::FETCH_ASSOC))
-        {
-            extract($row);
-    
-            array_push($data, 
-                array('품목일련번호'=>$품목일련번호,
-                '품목명'=>$품목명,
-                '업소일련번호'=>$업소일련번호
-            ));
-        }
+echo json_encode(array("result"=>$result));
 
-        header('Content-Type: application/json; charset=utf8');
-        $json = json_encode(array("webnautes"=>$data), JSON_PRETTY_PRINT+JSON_UNESCAPED_UNICODE);
-        echo $json;
-        
-    }
-
+mysqli_close($con);
 ?>
