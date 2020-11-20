@@ -1,5 +1,5 @@
 # 내 손안의 약국
-EWHA CSE 졸업프로젝트 
+EWHA CSE 졸업프로젝트- 스마트폰을 이용한 알약 인식 및 정보 제공 시스템
 
 시연 동영상: [youtube](https://youtu.be/ZV_j2W33LHY) 
 
@@ -83,7 +83,7 @@ EWHA CSE 졸업프로젝트
 
 --------------------------------------------
 
-### - text detection model
+### - pill detection model
 
 #### 1. YOLO
 
