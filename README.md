@@ -1,15 +1,17 @@
 # 내 손안의 약국
 EWHA CSE 졸업프로젝트-스마트폰을 이용한 알약 인식 및 정보 제공 시스템
 
-시연 동영상: [youtube](https://youtu.be/qbGNYfPwMvA) 
-
 ​                                          
 
-
+#### 문제 정의
 
 ------------------------------------------------------
 
 ▪ 환자가 복용한 약의 성분을 파악해야 하는 상황에서, 기존의 경우 의사는 해당 약물을 약국에 의뢰하면 약국에서도 하나하나 검색하여 정보를 얻는다. 
+
+​                              [기존의 경우]
+
+<img src="img/pill.png" style="zoom:50%;" />
 
 ▪ 대부분의 사람들은 조제약이나 시중에서 판매하는 약을 보관할 때 사용 용도를 구분해서 보관하지 않는다. 
 
@@ -39,7 +41,7 @@ EWHA CSE 졸업프로젝트-스마트폰을 이용한 알약 인식 및 정보 �
 
 
 
- ![img/data.png](https://lh5.googleusercontent.com/6KXleiAT1S5vyYVen3rw__xaQovIlKSczM9QQ1ja3chD_LySSG-exdOYuA54ZyC4znanV5iUHW541z_TdaUwChqlj5mPqAk9WSVtHlrAhzcBB40lFRUvxqaZsEhThhJg)
+ <img src="https://lh5.googleusercontent.com/6KXleiAT1S5vyYVen3rw__xaQovIlKSczM9QQ1ja3chD_LySSG-exdOYuA54ZyC4znanV5iUHW541z_TdaUwChqlj5mPqAk9WSVtHlrAhzcBB40lFRUvxqaZsEhThhJg" alt="img/data.png" style="zoom:67%;" />
 
 
 
@@ -63,7 +65,7 @@ EWHA CSE 졸업프로젝트-스마트폰을 이용한 알약 인식 및 정보 �
 
 1. **로고/분할선/문자 3가지 라벨로 라벨링**
 
-   ![](img/labeling1.png)
+   <img src="img/labeling1.png" style="zoom: 67%;" />
 
 
 
@@ -79,43 +81,103 @@ EWHA CSE 졸업프로젝트-스마트폰을 이용한 알약 인식 및 정보 �
 
 
 
-### 진행상황
+### 구현방향
 
---------------------------------------------
+-------------------------------------
 
-### - pill detection model
+**식별마크 인식**을 위해 총 4가지 모델 사용
 
-#### 1. YOLO
+: Pill detection - YOLO
 
-![img/yolo_result.png](img/yolo_result.png)
+  Text detection - EAST
+
+  Text recognition - CRNN
+
+  식별마크 교정 - Seq2Seq
+
+<img src="img/recognition.png" alt="img/recognition.png" style="zoom:67%;" />
 
 
 
-#### 2. EAST
+**알약 모양 인식**을 위해 VGG 모델 사용
 
-![](img/east_result1.png)
+<img src="img/shape.png" style="zoom:67%;" />
 
-![](img/east_result2.png)
 
-   
 
-   
+#### 각 모델에 대한 설명
 
-  
+##### Pill detection - YOLO
 
-### - text recognition model
+- label: pill
 
-#### 1. CRNN
+- 하이퍼파라미터: batch size 32, epoch 600, learning rate 0.000001
 
-![](img/crnn_result.png)
+- 입력이미지를 416x416 크기로 resize한 후 Gray scale 적용
 
-  : 알약 데이터로 학습하지 않은 CRNN demo 모델로 Text Recognition을 수행
+- 학습 결과: 87.9%의 Average precision
 
-  : 기본적인 text는 잘 인식하지만, 흘림체로 적힌 경우 제대로 인식하지 못하며, 회사로고와 같은 기호를 text로 인식한다는 문제점이 있음
+  <img src="img/yolo.png" style="zoom:67%;" />
 
-  
+##### Text detection - EAST
 
-  
+* label: text
+
+* 하이퍼파라미터: batch size 32, epoch 300, learning rate 0.001
+
+* 입력이미지를 256x256 크기로 resize
+
+* 학습 결과: 94.5%의 Average precision     
+
+* 학습 데이터 및 테스트 데이터: 구축한 데이터에서 **알약 부분**을 코드로 일괄적으로 잘라 활용
+
+  <img src="img/east.png" style="zoom:50%;" />
+
+##### Text recognition - CRNN
+
+* 하이퍼파라미터: batch size 384, learning rate 1, iiteration 300000
+
+* 사용자가 항상 정방향의 이미지를 찍는다는 보장이 없기 때문에 **모든 학습 이미지를 좌우 30도 회전시킨 후** 학습
+
+* 학습 결과: 86.39%의 Recognition accuracy     
+
+* 학습 데이터 및 테스트 데이터: 구축한 데이터에서 **글자 부분**을 코드로 일괄적으로 잘라 활용
+
+  <img src="img/crnn.png" style="zoom:50%;" />
+
+##### 식별마크 교정을 위한 Seq2Seq
+
+* 잘못예측하는 경우를 포함한 모든 CRNN의 예측값(식별마크)을 source로, 정답 식별마크를 target으로학습
+
+* 학습 결과: 주변 context를 함께 학습한다는 모델의 특성때문에, 비교적 길이가 짧은 문자의 경우 정확도가 크게 개선되지 않음. 
+
+  <img src="img/result.png" style="zoom:50%;" />
+
+##### 알약 모양 인식을 위한 VGG
+
+* 식별마크를 통해 검색되는 **알약의 후보군의 수를 줄이는 보조수단**
+
+* 알약 모양 인식을 위해 VGG 모델을 5가지의 레이블로 학습
+
+* label: “원형”, “타원형”, “육각형”, “팔각형”, “기타” 
+
+* 실제 정제 중 5.5%를 제외한 알약들이 4가지의 레이블에 속함
+
+* 4가지의 레이블에 속하지 않은 알약들을 기타로 분류하여 학습 
+
+  실제 어플리케이션에서 “기타”로 분류되는 경우에는 식별마크만 이용
+
+* 학습 결과: 96.67%의 Acc
+
+
+
+#### 어플리케이션 모식도
+
+<img src="img/모식도.png" style="zoom:50%;" />
+
+#### 어플리케이션 시연영상
+
+   [ youtube](https://youtu.be/qbGNYfPwMvA) 
 
 ### Team
 
