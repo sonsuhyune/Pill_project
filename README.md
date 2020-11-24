@@ -11,7 +11,7 @@ EWHA CSE 졸업프로젝트-스마트폰을 이용한 알약 인식 및 정보 �
 
 ​    [기존의 경우]
 
-<img src="img/pill.png" style="zoom:67%;" />
+<img src="img/pill.PNG" style="zoom:67%;" />
 
 ▪ 대부분의 사람들은 조제약이나 시중에서 판매하는 약을 보관할 때 사용 용도를 구분해서 보관하지 않는다. 
 
@@ -95,13 +95,13 @@ EWHA CSE 졸업프로젝트-스마트폰을 이용한 알약 인식 및 정보 �
 
   식별마크 교정 - Seq2Seq
 
-<img src="img/recognition.png" alt="img/recognition.png" style="zoom:67%;" />
+<img src="img/recognition.PNG" alt="img/recognition.png" style="zoom:67%;" />
 
 
 
 **알약 모양 인식**을 위해 VGG 모델 사용
 
-<img src="img/shape.png" style="zoom:67%;" />
+<img src="img/shape.PNG" style="zoom:67%;" />
 
 
 
@@ -117,7 +117,7 @@ EWHA CSE 졸업프로젝트-스마트폰을 이용한 알약 인식 및 정보 �
 
 - 학습 결과: 87.9%의 Average precision
 
-  <img src="img/yolo.png" style="zoom:67%;" />
+  <img src="img/yolo.PNG" style="zoom:67%;" />
 
 ##### Text detection - EAST
 
@@ -131,7 +131,7 @@ EWHA CSE 졸업프로젝트-스마트폰을 이용한 알약 인식 및 정보 �
 
 * 학습 데이터 및 테스트 데이터: 구축한 데이터에서 **알약 부분**을 코드로 일괄적으로 잘라 활용
 
-  <img src="img/east.png" style="zoom:50%;" />
+  <img src="img/east.PNG" style="zoom:50%;" />
 
 ##### Text recognition - CRNN
 
@@ -143,7 +143,7 @@ EWHA CSE 졸업프로젝트-스마트폰을 이용한 알약 인식 및 정보 �
 
 * 학습 데이터 및 테스트 데이터: 구축한 데이터에서 **글자 부분**을 코드로 일괄적으로 잘라 활용
 
-  <img src="img/crnn.png" style="zoom:50%;" />
+  <img src="img/crnn.PNG" style="zoom:50%;" />
 
 ##### 식별마크 교정을 위한 Seq2Seq
 
@@ -151,7 +151,7 @@ EWHA CSE 졸업프로젝트-스마트폰을 이용한 알약 인식 및 정보 �
 
 * 학습 결과: 주변 context를 함께 학습한다는 모델의 특성때문에, 비교적 길이가 짧은 문자의 경우 정확도가 크게 개선되지 않음. 
 
-  <img src="img/result.png" style="zoom:50%;" />
+  <img src="img/result.PNG" style="zoom:50%;" />
 
 ##### 알약 모양 인식을 위한 VGG
 
@@ -173,7 +173,7 @@ EWHA CSE 졸업프로젝트-스마트폰을 이용한 알약 인식 및 정보 �
 
 #### 어플리케이션 모식도
 
-<img src="img/모식도.png" style="zoom:50%;" />
+<img src="img/모식도.PNG" style="zoom:50%;" />
 
 #### 어플리케이션 시연영상
 
