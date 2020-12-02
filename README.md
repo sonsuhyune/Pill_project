@@ -1,6 +1,7 @@
 # 내 손안의 약국
 EWHA CSE 졸업프로젝트-스마트폰을 이용한 알약 인식 및 정보 제공 시스템
-  [Android개발 Github](https://github.com/sonsuhyune/PillProject_androidApp) 
+  
+[Android개발 Github](https://github.com/sonsuhyune/PillProject_androidApp) 
 ​                                          
 
 #### 문제 정의
