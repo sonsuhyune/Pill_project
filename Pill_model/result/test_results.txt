@@ -1,0 +1,1050 @@
+Finished loading YOLO model!
+Finished loading EAST model!
+
+pred: ['Airtal', '|']
+gt: ['Alrtal']
+
+
+pred: ['33', 'DG']
+gt: ['OG', '33']
+
+pred: ['HTR', 'G']
+gt: ['HTR']
+
+pred: ['8|', '|']
+gt: ['D-W', 'OFX']
+
+
+
+pred: ['|']
+gt: ['FT']
+
+pred: ['n']
+gt: ['T']
+
+pred: ['5', '|']
+gt: ['15']
+
+pred: ['HL300', '|']
+gt: ['EL300']
+
+
+pred: ['G']
+gt: ['FT']
+
+pred: ['ET']
+gt: ['MET']
+
+pred: ['ANG', '3']
+gt: ['AMG']
+
+pred: ['|5']
+gt: ['2|5']
+
+
+pred: ['ACIOS', '|', '-']
+gt: ['ACTOS']
+
+pred: ['ADCX', '|', '|']
+gt: ['ADCX']
+
+No pill found
+
+
+
+
+
+No pill found
+
+pred: ['33']
+gt: ['OG', '33']
+
+pred: ['YH', '|']
+gt: ['JY']
+
+
+pred: ['|']
+gt: ['A|G']
+
+pred: ['AM']
+gt: ['AMG']
+
+No textbox found
+
+
+pred: ['1']
+gt: ['T']
+
+pred: ['D']
+gt: ['D|C']
+
+
+pred: ['K|D', '|']
+gt: ['K|D']
+
+
+
+pred: ['|', '5']
+gt: ['2|5']
+
+No pill found
+
+No pill found
+
+
+pred: ['FEY', 'SK']
+gt: ['FET', 'SK']
+
+pred: ['D|M', '|']
+gt: ['D|W']
+
+pred: ['J']
+gt: ['D|C']
+
+
+
+
+No pill found
+
+pred: ['|', 'HH']
+gt: ['HM']
+
+
+
+
+pred: ['JYM']
+gt: ['JYP']
+
+
+pred: ['5']
+gt: ['15']
+
+
+pred: ['|1']
+gt: ['10']
+
+pred: ['CY']
+gt: ['JY', 'CX']
+
+pred: ['HN']
+gt: ['HM']
+
+pred: ['33']
+gt: ['OG', '33']
+
+
+pred: ['JYM']
+gt: ['JYP']
+
+
+
+
+
+pred: ['ME7', '-']
+gt: ['MET']
+
+pred: ['CHR']
+gt: ['HTR']
+
+pred: ['ME1']
+gt: ['MET']
+
+pred: ['|', '|']
+gt: ['|']
+
+
+pred: ['HS']
+gt: ['ES']
+
+
+
+pred: ['Z5']
+gt: ['ZS']
+
+pred: ['D|C', '|']
+gt: ['D|C']
+
+
+pred: ['CF']
+gt: ['FT']
+
+
+
+pred: ['|', '|']
+gt: ['HM']
+
+
+
+
+
+pred: ['|']
+gt: ['JYP']
+
+pred: ['118', '|']
+gt: ['118']
+
+pred: ['|']
+gt: ['16']
+
+pred: ['VD']
+gt: ['A|G']
+
+
+pred: ['FAT', 'SK']
+gt: ['FET', 'SK']
+
+pred: ['|']
+gt: ['AMG']
+
+pred: ['|', '|']
+gt: ['10']
+
+
+pred: ['G']
+gt: ['16']
+
+pred: ['|']
+gt: ['JYP']
+
+No pill found
+
+pred: ['|']
+gt: ['J25']
+
+pred: ['33']
+gt: ['OG', '33']
+
+
+
+pred: ['HL30']
+gt: ['EL300']
+
+pred: ['CY']
+gt: ['JY', 'CX']
+
+pred: ['Airtal', '|']
+gt: ['Alrtal']
+
+pred: ['jr']
+gt: ['T']
+
+pred: ['JYR']
+gt: ['JYP']
+
+pred: ['|D']
+gt: ['10']
+
+pred: ['J']
+gt: ['JYP']
+
+pred: ['33', '00']
+gt: ['33', 'OG']
+
+pred: ['FET', 'SK']
+gt: ['SK', 'FET']
+
+pred: ['ACTOS', '|', '|']
+gt: ['ACTOS']
+
+No pill found
+
+No pill found
+
+No textbox found
+
+pred: ['2|']
+gt: ['2|5']
+
+
+No pill found
+
+
+
+
+
+pred: ['4']
+gt: ['JY']
+
+
+
+pred: ['D|C', '|']
+gt: ['D|C']
+
+
+pred: ['D|W', '|']
+gt: ['D|W']
+
+
+pred: ['|']
+gt: ['SK', 'FET']
+
+pred: ['CFT']
+gt: ['FT']
+
+pred: ['|']
+gt: ['16']
+
+pred: ['G']
+gt: ['16']
+
+
+No textbox found
+
+pred: ['FET', 'SK']
+gt: ['SK', 'FET']
+
+
+pred: ['EL300', '|']
+gt: ['EL300']
+
+
+
+pred: ['FRT', 'SK']
+gt: ['FET', 'SK']
+
+pred: ['FET', 'SK']
+gt: ['SK', 'FET']
+
+
+
+pred: ['|']
+gt: ['HM']
+
+
+pred: ['ME7']
+gt: ['MET']
+
+pred: ['JYR', 'G']
+gt: ['JYP']
+
+pred: ['P|']
+gt: ['D-W', 'OFX']
+
+pred: ['Airtal']
+gt: ['Alrtal']
+
+
+pred: ['CX', 'JY']
+gt: ['JY', 'CX']
+
+pred: ['CK', 'J']
+gt: ['DK']
+
+pred: ['|', '|']
+gt: ['BM', 'B3']
+
+pred: ['FEY', 'C']
+gt: ['FET', 'SK']
+
+No textbox found
+
+
+
+No textbox found
+
+pred: ['|G']
+gt: ['J25']
+
+
+pred: ['B3', 'BM']
+gt: ['BM', 'B3']
+
+pred: ['AT']
+gt: ['ATV']
+
+
+
+pred: ['G']
+gt: ['10']
+
+pred: ['|']
+gt: ['OG', '33']
+
+No pill found
+
+
+
+pred: ['|', '|', '|']
+gt: ['D|W']
+
+pred: ['ATY']
+gt: ['ATV']
+
+No pill found
+
+
+No pill found
+
+
+
+pred: ['|r', 'C']
+gt: ['T']
+
+pred: ['HL300']
+gt: ['EL300']
+
+
+pred: ['|5']
+gt: ['15']
+
+pred: ['4']
+gt: ['J25']
+
+pred: ['2|S']
+gt: ['2|5']
+
+pred: ['ME7']
+gt: ['MET']
+
+pred: ['UDGA']
+gt: ['UDCA']
+
+
+
+
+
+
+
+
+pred: ['&', 'L']
+gt: ['JY', 'CX']
+
+pred: ['|']
+gt: ['D|W']
+
+
+pred: ['ADCX', '4']
+gt: ['ADCX']
+
+pred: ['0']
+gt: ['10']
+
+
+pred: ['|', '|']
+gt: ['D|W']
+
+
+
+pred: ['A|']
+gt: ['A|G']
+
+No pill found
+
+pred: ['40', 'C']
+gt: ['40']
+
+
+pred: ['|', '|']
+gt: ['DK']
+
+pred: ['FBT', 'SK']
+gt: ['SK', 'FET']
+
+No textbox found
+
+pred: ['30', '-']
+gt: ['30']
+
+
+
+
+pred: ['ME']
+gt: ['MET']
+
+pred: ['200', '|']
+gt: ['200']
+
+pred: ['J2']
+gt: ['J25']
+
+
+pred: ['|']
+gt: ['ATV']
+
+
+pred: ['118', '|', '|']
+gt: ['118']
+
+pred: ['FEY', '5K']
+gt: ['FET', 'SK']
+
+pred: ['D|C', '|']
+gt: ['D|C']
+
+
+
+
+pred: ['Airtal']
+gt: ['Alrtal']
+
+pred: ['Z5', '|', '|']
+gt: ['ZS']
+
+
+
+pred: ['D', '|']
+gt: ['D|C']
+
+No pill found
+
+pred: ['HL300', '||', '|']
+gt: ['EL300']
+
+pred: ['D|M']
+gt: ['D|W']
+
+
+pred: ['JYD', 'JY']
+gt: ['JYP']
+
+pred: ['E5', '|', '|']
+gt: ['ES']
+
+pred: ['AM', '1']
+gt: ['AMG']
+
+
+No pill found
+
+pred: ['CY', '|']
+gt: ['JY', 'CX']
+
+pred: ['CFT']
+gt: ['FT']
+
+pred: ['Z5']
+gt: ['ZS']
+
+
+
+
+
+
+pred: ['B5']
+gt: ['OG', '33']
+
+pred: ['BS']
+gt: ['ES']
+
+
+pred: ['|', '|']
+gt: ['J25']
+
+pred: ['|']
+gt: ['J25']
+
+
+pred: ['C']
+gt: ['FT']
+
+pred: ['3|']
+gt: ['SK', 'FET']
+
+pred: ['rV']
+gt: ['ATV']
+
+pred: ['YH', '|']
+gt: ['YH']
+
+
+
+
+pred: ['D|V', '|']
+gt: ['D|W']
+
+
+pred: ['|']
+gt: ['AMG']
+
+pred: ['|']
+gt: ['JY']
+
+pred: ['UDCA', '|']
+gt: ['UDCA']
+
+pred: ['HS']
+gt: ['ES']
+
+pred: ['ATI']
+gt: ['ATV']
+
+
+
+No pill found
+
+No pill found
+
+pred: ['|M']
+gt: ['HM']
+
+
+pred: ['ANG', '1']
+gt: ['AMG']
+
+pred: ['B5']
+gt: ['ES']
+
+
+pred: ['ME']
+gt: ['MET']
+
+pred: ['JY', 'CY']
+gt: ['JY', 'CX']
+
+pred: ['J']
+gt: ['T']
+
+pred: ['|', '|', '|']
+gt: ['JY']
+
+No textbox found
+
+No pill found
+
+pred: ['D|C', '|']
+gt: ['D|C']
+
+pred: ['|']
+gt: ['YH']
+
+pred: ['5']
+gt: ['15']
+
+pred: ['S', '-']
+gt: ['FT']
+
+
+pred: ['|', '|']
+gt: ['JY', 'CX']
+
+
+
+No pill found
+
+pred: ['118', '|']
+gt: ['118']
+
+
+
+pred: ['|C']
+gt: ['16']
+
+
+
+pred: ['|']
+gt: ['JY', 'CX']
+
+pred: ['B5']
+gt: ['ES']
+
+pred: ['D|']
+gt: ['D|C']
+
+
+
+
+pred: ['|', 'L']
+gt: ['T']
+
+pred: ['15', '|']
+gt: ['16']
+
+No pill found
+
+pred: ['B8']
+gt: ['OG', '33']
+
+
+
+
+
+
+pred: ['|', '|']
+gt: ['|']
+
+
+pred: ['G']
+gt: ['16']
+
+
+No textbox found
+
+pred: ['HL300', '|']
+gt: ['EL300']
+
+pred: ['|']
+gt: ['JYP']
+
+
+pred: ['|']
+gt: ['JY']
+
+pred: ['D|C', '|']
+gt: ['D|C']
+
+
+pred: ['ATV)']
+gt: ['ATV']
+
+pred: ['ACTOS', 'L', '|']
+gt: ['ACTOS']
+
+
+pred: ['ME7', 'C']
+gt: ['MET']
+
+pred: ['0G', '33']
+gt: ['OG', '33']
+
+
+
+pred: ['UDCA', '(', '|']
+gt: ['UDCA']
+
+
+pred: ['D|C', '|']
+gt: ['D|C']
+
+
+pred: ['|']
+gt: ['JY']
+
+pred: ['10', '|']
+gt: ['10']
+
+
+No pill found
+
+
+pred: ['D|W', '|', '|']
+gt: ['D|W']
+
+pred: ['D']
+gt: ['D|W']
+
+
+
+
+pred: ['HL300']
+gt: ['EL300']
+
+pred: ['33', '0G']
+gt: ['OG', '33']
+
+pred: ['|', 'C']
+gt: ['T']
+
+
+pred: ['|']
+gt: ['YH']
+
+
+pred: ['|']
+gt: ['16']
+
+
+pred: ['Y|']
+gt: ['YH']
+
+
+pred: ['OFX', 'D-W']
+gt: ['D-W', 'OFX']
+
+No pill found
+
+pred: ['|5']
+gt: ['OG', '33']
+
+
+No textbox found
+
+pred: ['33', 'AG']
+gt: ['OG', '33']
+
+No pill found
+
+pred: ['W', 'D', '|']
+gt: ['D|W']
+
+
+
+pred: ['FET', 'SK']
+gt: ['SK', 'FET']
+
+
+
+pred: ['8|']
+gt: ['D-W', 'OFX']
+
+pred: ['118', '|']
+gt: ['118']
+
+pred: ['|']
+gt: ['JYP']
+
+
+pred: ['HRR']
+gt: ['HTR']
+
+
+
+
+pred: ['CY', 'C']
+gt: ['JY', 'CX']
+
+pred: ['CX', 'JY']
+gt: ['JY', 'CX']
+
+pred: ['ME']
+gt: ['MET']
+
+pred: ['1G', 'C']
+gt: ['16']
+
+pred: ['200', '|', '|']
+gt: ['200']
+
+
+pred: ['YH', '3.']
+gt: ['JY']
+
+pred: ['Airtal']
+gt: ['Alrtal']
+
+
+pred: ['AMG', '|']
+gt: ['AMG']
+
+
+pred: ['AT']
+gt: ['ATV']
+
+pred: ['IVI']
+gt: ['HM']
+
+pred: ['|']
+gt: ['JY', 'CX']
+
+
+pred: ['Jr']
+gt: ['T']
+
+
+pred: ['ZS', '|']
+gt: ['ZS']
+
+
+pred: ['|']
+gt: ['JY']
+
+pred: ['30', '|']
+gt: ['30']
+
+pred: ['C']
+gt: ['DK']
+
+
+No pill found
+
+pred: ['D|W', '-']
+gt: ['D|W']
+
+No textbox found
+
+No pill found
+
+pred: ['-D']
+gt: ['T']
+
+pred: ['C']
+gt: ['10']
+
+
+pred: ['Cr', '|']
+gt: ['T']
+
+pred: ['|']
+gt: ['DK']
+
+
+pred: ['CX', '|']
+gt: ['JY', 'CX']
+
+pred: ['J2', '|']
+gt: ['J25']
+
+
+pred: ['|']
+gt: ['JY']
+
+pred: ['|', '|']
+gt: ['|']
+
+pred: ['|', 'ME']
+gt: ['MET']
+
+
+
+
+
+
+
+pred: ['A|G', '|']
+gt: ['A|G']
+
+
+
+pred: ['1']
+gt: ['T']
+
+pred: ['|']
+gt: ['JYP']
+
+pred: ['|']
+gt: ['D-W', 'OFX']
+
+
+pred: ['30', '|']
+gt: ['30']
+
+pred: ['-']
+gt: ['E']
+
+pred: ['Tr']
+gt: ['T']
+
+
+pred: ['33', 'OG']
+gt: ['OG', '33']
+
+pred: ['CX']
+gt: ['JY', 'CX']
+
+
+pred: ['200', '|']
+gt: ['200']
+
+
+pred: ['|5', '|']
+gt: ['15']
+
+
+pred: ['10', '1']
+gt: ['10']
+
+pred: ['5']
+gt: ['15']
+
+
+pred: ['|', '-']
+gt: ['T']
+
+
+
+pred: ['8|']
+gt: ['D-W', 'OFX']
+
+pred: ['|']
+gt: ['T']
+
+pred: ['ATY']
+gt: ['ATV']
+
+pred: ['D|C', '|']
+gt: ['D|C']
+
+pred: ['BM', 'B3', '|']
+gt: ['BM', 'B3']
+
+pred: ['|']
+gt: ['AMG']
+
+
+pred: ['|']
+gt: ['ATV']
+
+pred: ['|']
+gt: ['D|W']
+
+pred: ['K|D', '|']
+gt: ['K|D']
+
+pred: ['C']
+gt: ['FT']
+
+pred: ['|']
+gt: ['YH']
+
+
+
+pred: ['ADCX', '|']
+gt: ['ADCX']
+
+
+pred: ['8', '|']
+gt: ['D-W', 'OFX']
+
+pred: ['ACTO5', '|']
+gt: ['ACTOS']
+
+pred: ['Airta']
+gt: ['Alrtal']
+
+pred: ['YH']
+gt: ['JY']
+
+pred: ['BM', 'B3', '-', '|']
+gt: ['BM', 'B3']
+
+pred: ['33', 'OG']
+gt: ['OG', '33']
+
+
+pred: ['|', '|']
+gt: ['D|W']
+
+
+pred: ['FET', 'SK']
+gt: ['SK', 'FET']
+
+
+pred: ['||']
+gt: ['OG', '33']
+
+pred: ['1']
+gt: ['|']
+
+pred: ['|', '|']
+gt: ['BM', 'B3']
+
+pred: ['HN']
+gt: ['HM']
+
+
+
+
+
+pred: ['|5']
+gt: ['2|5']
+
+pred: ['15', '|', '|']
+gt: ['15']
+
+
+pred: ['33']
+gt: ['OG', '33']
+
+No textbox found
+
+pred: ['AM']
+gt: ['AMG']
+
+pred: ['6']
+gt: ['16']
+
+
+Accuracy, norm_ED:63.205828779599270.6703703703703703
+Finished loading YOLO model!
+Finished loading EAST model!
+
+Accuracy, norm_ED:100.01.0

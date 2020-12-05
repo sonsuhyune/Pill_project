@@ -1,0 +1,3269 @@
+Finished loading YOLO model!
+Finished loading EAST model!
++++++++++++++++++++++++++++++++++++++++
+104_F_1_R_L_2.jpg
++++++++++++++++++++++++++++++++++++++++
+39_F_2_R_D_1.jpg
++++++++++++++++++++++++++++++++++++++++
+37_F_1_W_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['Alrtal']
+pred: 
+['Airtal', '|']
++++++++++++++++++++++++++++++++++++++++
+148_F_1_R_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['MET']
+pred: 
+['MET']
++++++++++++++++++++++++++++++++++++++++
+109_F_2_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['OG', '33']
+pred: 
+['33', 'DG']
++++++++++++++++++++++++++++++++++++++++
+152_F_2_R_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['HTR']
+pred: 
+['HTR', 'G']
++++++++++++++++++++++++++++++++++++++++
+152_F_1_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['D-W', 'OFX']
+pred: 
+['8|', '|']
++++++++++++++++++++++++++++++++++++++++
+150_F_2_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['80']
+pred: 
+['80']
++++++++++++++++++++++++++++++++++++++++
+149_B_2_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['80']
+pred: 
+['80']
++++++++++++++++++++++++++++++++++++++++
+102_F_1_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['FT']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+108_B_1_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['T']
+pred: 
+['n']
++++++++++++++++++++++++++++++++++++++++
+243_F_2_R_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['15']
+pred: 
+['5', '|']
++++++++++++++++++++++++++++++++++++++++
+150_F_2_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['EL300']
+pred: 
+['HL300', '|']
++++++++++++++++++++++++++++++++++++++++
+39_F_1_W_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['JYP']
+pred: 
+['JYP']
++++++++++++++++++++++++++++++++++++++++
+250_F_1_R_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['FT']
+pred: 
+['G']
++++++++++++++++++++++++++++++++++++++++
+149_F_1_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['MET']
+pred: 
+['ET']
++++++++++++++++++++++++++++++++++++++++
+250_F_2_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['AMG']
+pred: 
+['ANG', '3']
++++++++++++++++++++++++++++++++++++++++
+103_B_1_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['2|5']
+pred: 
+['|5']
++++++++++++++++++++++++++++++++++++++++
+113_F_2_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['AMG']
+pred: 
+['AMG']
++++++++++++++++++++++++++++++++++++++++
+244_F_2_W_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['ACTOS']
+pred: 
+['ACIOS', '|', '-']
++++++++++++++++++++++++++++++++++++++++
+149_F_2_R_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['ADCX']
+pred: 
+['ADCX', '|', '|']
++++++++++++++++++++++++++++++++++++++++
+151_F_2_W_L_1.jpg
+No pill found
++++++++++++++++++++++++++++++++++++++++
+245_F_1_R_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['2|5']
+pred: 
+['2|5']
++++++++++++++++++++++++++++++++++++++++
+247_F_2_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['40']
+pred: 
+['40']
++++++++++++++++++++++++++++++++++++++++
+150_F_1_R_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['J25']
+pred: 
+['J25']
++++++++++++++++++++++++++++++++++++++++
+37_F_2_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['JY']
+pred: 
+['JY']
++++++++++++++++++++++++++++++++++++++++
+250_B_1_R_D_2.jpg
+No pill found
++++++++++++++++++++++++++++++++++++++++
+116_F_1_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['OG', '33']
+pred: 
+['33']
++++++++++++++++++++++++++++++++++++++++
+101_F_1_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['JY']
+pred: 
+['YH', '|']
++++++++++++++++++++++++++++++++++++++++
+250_F_2_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['200']
+pred: 
+['200']
++++++++++++++++++++++++++++++++++++++++
+107_F_1_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['A|G']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+116_F_2_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['AMG']
+pred: 
+['AM']
++++++++++++++++++++++++++++++++++++++++
+149_B_1_W_L_2.jpg
+No textbox found
++++++++++++++++++++++++++++++++++++++++
+41_F_2_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['200']
+pred: 
+['200']
++++++++++++++++++++++++++++++++++++++++
+48_F_2_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['T']
+pred: 
+['1']
++++++++++++++++++++++++++++++++++++++++
+108_F_1_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['D|C']
+pred: 
+['D']
++++++++++++++++++++++++++++++++++++++++
+41_F_1_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['HM']
+pred: 
+['HM']
++++++++++++++++++++++++++++++++++++++++
+35_B_1_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['K|D']
+pred: 
+['K|D', '|']
++++++++++++++++++++++++++++++++++++++++
+149_F_2_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['D|C']
+pred: 
+['D|C']
++++++++++++++++++++++++++++++++++++++++
+244_F_2_W_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['10']
+pred: 
+['10']
++++++++++++++++++++++++++++++++++++++++
+250_B_2_W_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['2|5']
+pred: 
+['|', '5']
++++++++++++++++++++++++++++++++++++++++
+118_F_1_W_L_1.jpg
+No pill found
++++++++++++++++++++++++++++++++++++++++
+151_B_1_R_D_2.jpg
+No pill found
++++++++++++++++++++++++++++++++++++++++
+115_B_2_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['10']
+pred: 
+['10']
++++++++++++++++++++++++++++++++++++++++
+41_F_1_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['FET', 'SK']
+pred: 
+['FEY', 'SK']
++++++++++++++++++++++++++++++++++++++++
+108_F_2_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['D|W']
+pred: 
+['D|M', '|']
++++++++++++++++++++++++++++++++++++++++
+245_F_2_R_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['D|C']
+pred: 
+['J']
++++++++++++++++++++++++++++++++++++++++
+151_F_2_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['K|D']
+pred: 
+['K|D']
++++++++++++++++++++++++++++++++++++++++
+245_F_1_W_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['J25']
+pred: 
+['J25']
++++++++++++++++++++++++++++++++++++++++
+48_F_1_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['40']
+pred: 
+['40']
++++++++++++++++++++++++++++++++++++++++
+115_F_2_W_L_1.jpg
+No pill found
++++++++++++++++++++++++++++++++++++++++
+243_F_2_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['HM']
+pred: 
+['|', 'HH']
++++++++++++++++++++++++++++++++++++++++
+151_F_2_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['UDCA']
+pred: 
+['UDCA']
++++++++++++++++++++++++++++++++++++++++
+243_F_1_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['JYP']
+pred: 
+['JYP']
++++++++++++++++++++++++++++++++++++++++
+247_F_1_R_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['40']
+pred: 
+['40']
++++++++++++++++++++++++++++++++++++++++
+102_F_1_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['JYP']
+pred: 
+['JYM']
++++++++++++++++++++++++++++++++++++++++
+148_F_2_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['JY']
+pred: 
+['JY']
++++++++++++++++++++++++++++++++++++++++
+105_F_2_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['15']
+pred: 
+['5']
++++++++++++++++++++++++++++++++++++++++
+244_F_2_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['HTR']
+pred: 
+['HTR']
++++++++++++++++++++++++++++++++++++++++
+48_F_2_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['10']
+pred: 
+['|1']
++++++++++++++++++++++++++++++++++++++++
+37_F_2_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['JY', 'CX']
+pred: 
+['CY']
++++++++++++++++++++++++++++++++++++++++
+152_B_2_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['HM']
+pred: 
+['HN']
++++++++++++++++++++++++++++++++++++++++
+243_F_2_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['OG', '33']
+pred: 
+['33']
++++++++++++++++++++++++++++++++++++++++
+39_F_2_W_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['|']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+41_B_2_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['JYP']
+pred: 
+['JYM']
++++++++++++++++++++++++++++++++++++++++
+41_B_1_R_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['MET']
+pred: 
+['MET']
++++++++++++++++++++++++++++++++++++++++
+149_B_1_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['16']
+pred: 
+['16']
++++++++++++++++++++++++++++++++++++++++
+39_F_1_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['16']
+pred: 
+['16']
++++++++++++++++++++++++++++++++++++++++
+148_F_2_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['T']
+pred: 
+['T']
++++++++++++++++++++++++++++++++++++++++
+39_F_2_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['MET']
+pred: 
+['ME7', '-']
++++++++++++++++++++++++++++++++++++++++
+247_B_2_R_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['HTR']
+pred: 
+['CHR']
++++++++++++++++++++++++++++++++++++++++
+247_B_1_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['MET']
+pred: 
+['ME1']
++++++++++++++++++++++++++++++++++++++++
+106_F_1_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['|']
+pred: 
+['|', '|']
++++++++++++++++++++++++++++++++++++++++
+41_F_2_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['|']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+148_F_2_R_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['ES']
+pred: 
+['HS']
++++++++++++++++++++++++++++++++++++++++
+111_B_1_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['D|C']
+pred: 
+['D|C']
++++++++++++++++++++++++++++++++++++++++
+41_F_2_R_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['HTR']
+pred: 
+['HTR']
++++++++++++++++++++++++++++++++++++++++
+148_F_1_W_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['ZS']
+pred: 
+['Z5']
++++++++++++++++++++++++++++++++++++++++
+150_F_2_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['D|C']
+pred: 
+['D|C', '|']
++++++++++++++++++++++++++++++++++++++++
+152_F_1_R_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['HTR']
+pred: 
+['HTR']
++++++++++++++++++++++++++++++++++++++++
+103_F_1_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['FT']
+pred: 
+['CF']
++++++++++++++++++++++++++++++++++++++++
+48_F_1_W_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['80']
+pred: 
+['80']
++++++++++++++++++++++++++++++++++++++++
+151_F_2_R_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['ACTOS']
+pred: 
+['ACTOS']
++++++++++++++++++++++++++++++++++++++++
+48_F_2_W_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['HM']
+pred: 
+['|', '|']
++++++++++++++++++++++++++++++++++++++++
+245_F_2_R_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['40']
+pred: 
+['40']
++++++++++++++++++++++++++++++++++++++++
+102_B_2_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['HM']
+pred: 
+['HM']
++++++++++++++++++++++++++++++++++++++++
+243_F_1_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['J25']
+pred: 
+['J25']
++++++++++++++++++++++++++++++++++++++++
+111_F_1_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['ACTOS']
+pred: 
+['ACTOS']
++++++++++++++++++++++++++++++++++++++++
+41_B_1_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['JYP']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+101_F_2_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['118']
+pred: 
+['118', '|']
++++++++++++++++++++++++++++++++++++++++
+115_F_1_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['16']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+151_B_1_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['A|G']
+pred: 
+['VD']
++++++++++++++++++++++++++++++++++++++++
+250_F_1_W_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['UDCA']
+pred: 
+['UDCA']
++++++++++++++++++++++++++++++++++++++++
+118_B_2_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['FET', 'SK']
+pred: 
+['FAT', 'SK']
++++++++++++++++++++++++++++++++++++++++
+48_F_1_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['AMG']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+41_B_2_W_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['10']
+pred: 
+['|', '|']
++++++++++++++++++++++++++++++++++++++++
+243_F_1_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['HM']
+pred: 
+['HM']
++++++++++++++++++++++++++++++++++++++++
+250_F_2_W_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['16']
+pred: 
+['G']
++++++++++++++++++++++++++++++++++++++++
+245_F_1_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['JYP']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+37_F_1_W_L_2.jpg
+No pill found
++++++++++++++++++++++++++++++++++++++++
+247_F_2_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['J25']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+247_F_2_R_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['OG', '33']
+pred: 
+['33']
++++++++++++++++++++++++++++++++++++++++
+108_B_1_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['JY']
+pred: 
+['JY']
++++++++++++++++++++++++++++++++++++++++
+244_F_1_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['JY']
+pred: 
+['JY']
++++++++++++++++++++++++++++++++++++++++
+104_F_1_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['EL300']
+pred: 
+['HL30']
++++++++++++++++++++++++++++++++++++++++
+149_B_2_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['JY', 'CX']
+pred: 
+['CY']
++++++++++++++++++++++++++++++++++++++++
+243_F_2_R_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['Alrtal']
+pred: 
+['Airtal', '|']
++++++++++++++++++++++++++++++++++++++++
+35_B_1_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['T']
+pred: 
+['jr']
++++++++++++++++++++++++++++++++++++++++
+243_F_1_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['JYP']
+pred: 
+['JYR']
++++++++++++++++++++++++++++++++++++++++
+37_F_1_R_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['10']
+pred: 
+['|D']
++++++++++++++++++++++++++++++++++++++++
+151_B_1_R_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['JYP']
+pred: 
+['J']
++++++++++++++++++++++++++++++++++++++++
+103_B_1_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['33', 'OG']
+pred: 
+['33', '00']
++++++++++++++++++++++++++++++++++++++++
+35_F_2_W_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['SK', 'FET']
+pred: 
+['FET', 'SK']
++++++++++++++++++++++++++++++++++++++++
+35_B_2_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['ACTOS']
+pred: 
+['ACTOS', '|', '|']
++++++++++++++++++++++++++++++++++++++++
+107_F_1_W_L_2.jpg
+No pill found
++++++++++++++++++++++++++++++++++++++++
+149_F_1_R_L_1.jpg
+No pill found
++++++++++++++++++++++++++++++++++++++++
+35_B_1_R_D_1.jpg
+No textbox found
++++++++++++++++++++++++++++++++++++++++
+245_F_2_W_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['2|5']
+pred: 
+['2|']
++++++++++++++++++++++++++++++++++++++++
+148_F_2_W_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['10']
+pred: 
+['10']
++++++++++++++++++++++++++++++++++++++++
+35_B_2_R_D_1.jpg
+No pill found
++++++++++++++++++++++++++++++++++++++++
+39_F_2_W_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['HTR']
+pred: 
+['HTR']
++++++++++++++++++++++++++++++++++++++++
+250_B_2_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['10']
+pred: 
+['10']
++++++++++++++++++++++++++++++++++++++++
+247_F_2_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['MET']
+pred: 
+['MET']
++++++++++++++++++++++++++++++++++++++++
+148_F_1_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['YH']
+pred: 
+['YH']
++++++++++++++++++++++++++++++++++++++++
+243_F_2_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['JY']
+pred: 
+['4']
++++++++++++++++++++++++++++++++++++++++
+41_F_2_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['HTR']
+pred: 
+['HTR']
++++++++++++++++++++++++++++++++++++++++
+152_F_2_W_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['JYP']
+pred: 
+['JYP']
++++++++++++++++++++++++++++++++++++++++
+116_B_1_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['D|C']
+pred: 
+['D|C', '|']
++++++++++++++++++++++++++++++++++++++++
+151_F_1_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['80']
+pred: 
+['80']
++++++++++++++++++++++++++++++++++++++++
+151_B_2_W_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['D|W']
+pred: 
+['D|W', '|']
++++++++++++++++++++++++++++++++++++++++
+150_F_1_W_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['40']
+pred: 
+['40']
++++++++++++++++++++++++++++++++++++++++
+41_B_2_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['SK', 'FET']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+41_B_1_W_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['FT']
+pred: 
+['CFT']
++++++++++++++++++++++++++++++++++++++++
+152_B_1_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['16']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+107_F_1_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['16']
+pred: 
+['G']
++++++++++++++++++++++++++++++++++++++++
+151_B_1_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['|']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+151_F_2_W_D_2.jpg
+No textbox found
++++++++++++++++++++++++++++++++++++++++
+108_B_2_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['SK', 'FET']
+pred: 
+['FET', 'SK']
++++++++++++++++++++++++++++++++++++++++
+102_B_1_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['40']
+pred: 
+['40']
++++++++++++++++++++++++++++++++++++++++
+250_F_2_R_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['EL300']
+pred: 
+['EL300', '|']
++++++++++++++++++++++++++++++++++++++++
+151_B_2_R_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['ACTOS']
+pred: 
+['ACTOS']
++++++++++++++++++++++++++++++++++++++++
+151_B_2_R_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['AMG']
+pred: 
+['AMG']
++++++++++++++++++++++++++++++++++++++++
+149_F_2_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['FET', 'SK']
+pred: 
+['FRT', 'SK']
++++++++++++++++++++++++++++++++++++++++
+148_F_1_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['SK', 'FET']
+pred: 
+['FET', 'SK']
++++++++++++++++++++++++++++++++++++++++
+48_F_1_W_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['2|5']
+pred: 
+['2|5']
++++++++++++++++++++++++++++++++++++++++
+152_F_1_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['HTR']
+pred: 
+['HTR']
++++++++++++++++++++++++++++++++++++++++
+39_F_2_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['HM']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+243_F_1_R_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['80']
+pred: 
+['80']
++++++++++++++++++++++++++++++++++++++++
+109_F_1_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['MET']
+pred: 
+['ME7']
++++++++++++++++++++++++++++++++++++++++
+104_F_2_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['JYP']
+pred: 
+['JYR', 'G']
++++++++++++++++++++++++++++++++++++++++
+152_F_1_W_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['D-W', 'OFX']
+pred: 
+['P|']
++++++++++++++++++++++++++++++++++++++++
+244_F_1_R_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['Alrtal']
+pred: 
+['Airtal']
++++++++++++++++++++++++++++++++++++++++
+118_F_2_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['80']
+pred: 
+['80']
++++++++++++++++++++++++++++++++++++++++
+117_F_2_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['JY', 'CX']
+pred: 
+['CX', 'JY']
++++++++++++++++++++++++++++++++++++++++
+151_B_1_W_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['DK']
+pred: 
+['CK', 'J']
++++++++++++++++++++++++++++++++++++++++
+150_F_2_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['BM', 'B3']
+pred: 
+['|', '|']
++++++++++++++++++++++++++++++++++++++++
+152_B_2_R_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['FET', 'SK']
+pred: 
+['FEY', 'C']
++++++++++++++++++++++++++++++++++++++++
+152_B_2_R_L_2.jpg
+No textbox found
++++++++++++++++++++++++++++++++++++++++
+250_B_1_W_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['|']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+245_F_2_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['|']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+247_F_1_R_D_1.jpg
+No textbox found
++++++++++++++++++++++++++++++++++++++++
+117_F_2_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['J25']
+pred: 
+['|G']
++++++++++++++++++++++++++++++++++++++++
+35_F_1_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['JY']
+pred: 
+['JY']
++++++++++++++++++++++++++++++++++++++++
+117_F_2_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['BM', 'B3']
+pred: 
+['B3', 'BM']
++++++++++++++++++++++++++++++++++++++++
+152_B_2_W_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['ATV']
+pred: 
+['AT']
++++++++++++++++++++++++++++++++++++++++
+35_B_1_W_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['BM', 'B3']
+pred: 
+['BM', 'B3']
++++++++++++++++++++++++++++++++++++++++
+37_F_2_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['|']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+250_B_2_W_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['10']
+pred: 
+['G']
++++++++++++++++++++++++++++++++++++++++
+148_F_2_R_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['OG', '33']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+152_B_2_W_D_2.jpg
+No pill found
++++++++++++++++++++++++++++++++++++++++
+115_B_2_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['HTR']
+pred: 
+['HTR']
++++++++++++++++++++++++++++++++++++++++
+35_F_1_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['|']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+152_F_2_W_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['D|W']
+pred: 
+['|', '|', '|']
++++++++++++++++++++++++++++++++++++++++
+148_F_1_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['ATV']
+pred: 
+['ATY']
++++++++++++++++++++++++++++++++++++++++
+107_B_2_R_L_2.jpg
+No pill found
++++++++++++++++++++++++++++++++++++++++
+151_F_2_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['HTR']
+pred: 
+['HTR']
++++++++++++++++++++++++++++++++++++++++
+117_F_1_W_L_2.jpg
+No pill found
++++++++++++++++++++++++++++++++++++++++
+149_B_2_R_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['40']
+pred: 
+['40']
++++++++++++++++++++++++++++++++++++++++
+108_B_2_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['BM', 'B3']
+pred: 
+['BM', 'B3']
++++++++++++++++++++++++++++++++++++++++
+152_B_1_R_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['T']
+pred: 
+['|r', 'C']
++++++++++++++++++++++++++++++++++++++++
+102_F_2_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['EL300']
+pred: 
+['HL300']
++++++++++++++++++++++++++++++++++++++++
+245_F_1_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['|']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+149_F_1_W_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['15']
+pred: 
+['|5']
++++++++++++++++++++++++++++++++++++++++
+39_F_1_R_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['J25']
+pred: 
+['4']
++++++++++++++++++++++++++++++++++++++++
+115_F_1_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['2|5']
+pred: 
+['2|S']
++++++++++++++++++++++++++++++++++++++++
+152_F_2_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['MET']
+pred: 
+['ME7']
++++++++++++++++++++++++++++++++++++++++
+48_F_2_W_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['UDCA']
+pred: 
+['UDGA']
++++++++++++++++++++++++++++++++++++++++
+151_B_2_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['80']
+pred: 
+['80']
++++++++++++++++++++++++++++++++++++++++
+152_F_2_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['HM']
+pred: 
+['HM']
++++++++++++++++++++++++++++++++++++++++
+116_F_2_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['FET', 'SK']
+pred: 
+['FET', 'SK']
++++++++++++++++++++++++++++++++++++++++
+152_B_1_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['80']
+pred: 
+['80']
++++++++++++++++++++++++++++++++++++++++
+152_B_1_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['200']
+pred: 
+['200']
++++++++++++++++++++++++++++++++++++++++
+244_F_1_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['|']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+115_B_2_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['|']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+118_B_1_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['JY', 'CX']
+pred: 
+['&', 'L']
++++++++++++++++++++++++++++++++++++++++
+113_F_1_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['D|W']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+35_B_1_W_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['DK']
+pred: 
+['DK']
++++++++++++++++++++++++++++++++++++++++
+152_B_1_W_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['ADCX']
+pred: 
+['ADCX', '4']
++++++++++++++++++++++++++++++++++++++++
+115_B_1_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['10']
+pred: 
+['0']
++++++++++++++++++++++++++++++++++++++++
+150_F_1_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['|']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+35_F_2_R_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['D|W']
+pred: 
+['|', '|']
++++++++++++++++++++++++++++++++++++++++
+101_F_1_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['FT']
+pred: 
+['FT']
++++++++++++++++++++++++++++++++++++++++
+247_F_2_W_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['ATV']
+pred: 
+['ATV']
++++++++++++++++++++++++++++++++++++++++
+151_F_1_R_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['A|G']
+pred: 
+['A|']
++++++++++++++++++++++++++++++++++++++++
+250_F_1_R_L_1.jpg
+No pill found
++++++++++++++++++++++++++++++++++++++++
+118_F_1_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['40']
+pred: 
+['40', 'C']
++++++++++++++++++++++++++++++++++++++++
+151_B_1_W_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['AMG']
+pred: 
+['AMG']
++++++++++++++++++++++++++++++++++++++++
+107_B_2_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['DK']
+pred: 
+['|', '|']
++++++++++++++++++++++++++++++++++++++++
+103_F_2_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['SK', 'FET']
+pred: 
+['FBT', 'SK']
++++++++++++++++++++++++++++++++++++++++
+108_F_1_R_L_2.jpg
+No textbox found
++++++++++++++++++++++++++++++++++++++++
+108_B_2_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['30']
+pred: 
+['30', '-']
++++++++++++++++++++++++++++++++++++++++
+149_F_2_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['K|D']
+pred: 
+['K|D']
++++++++++++++++++++++++++++++++++++++++
+39_F_2_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['EL300']
+pred: 
+['EL300']
++++++++++++++++++++++++++++++++++++++++
+116_F_2_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['2|5']
+pred: 
+['2|5']
++++++++++++++++++++++++++++++++++++++++
+245_F_1_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['MET']
+pred: 
+['ME']
++++++++++++++++++++++++++++++++++++++++
+152_F_2_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['200']
+pred: 
+['200', '|']
++++++++++++++++++++++++++++++++++++++++
+35_F_1_W_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['J25']
+pred: 
+['J2']
++++++++++++++++++++++++++++++++++++++++
+35_B_2_R_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['80']
+pred: 
+['80']
++++++++++++++++++++++++++++++++++++++++
+111_F_1_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['ATV']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+151_B_2_W_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['10']
+pred: 
+['10']
++++++++++++++++++++++++++++++++++++++++
+41_F_1_R_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['118']
+pred: 
+['118', '|', '|']
++++++++++++++++++++++++++++++++++++++++
+35_F_1_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['FET', 'SK']
+pred: 
+['FEY', '5K']
++++++++++++++++++++++++++++++++++++++++
+247_B_1_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['D|C']
+pred: 
+['D|C', '|']
++++++++++++++++++++++++++++++++++++++++
+247_F_2_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['ATV']
+pred: 
+['ATV']
++++++++++++++++++++++++++++++++++++++++
+104_F_2_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['|']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+111_B_1_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['JY']
+pred: 
+['JY']
++++++++++++++++++++++++++++++++++++++++
+118_F_2_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['Alrtal']
+pred: 
+['Airtal']
++++++++++++++++++++++++++++++++++++++++
+39_F_1_W_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['ZS']
+pred: 
+['Z5', '|', '|']
++++++++++++++++++++++++++++++++++++++++
+41_F_1_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['10']
+pred: 
+['10']
++++++++++++++++++++++++++++++++++++++++
+250_F_2_W_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['MET']
+pred: 
+['MET']
++++++++++++++++++++++++++++++++++++++++
+108_B_2_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['D|C']
+pred: 
+['D', '|']
++++++++++++++++++++++++++++++++++++++++
+116_B_1_W_L_2.jpg
+No pill found
++++++++++++++++++++++++++++++++++++++++
+148_F_1_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['EL300']
+pred: 
+['HL300', '||', '|']
++++++++++++++++++++++++++++++++++++++++
+243_F_1_R_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['D|W']
+pred: 
+['D|M']
++++++++++++++++++++++++++++++++++++++++
+106_F_1_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['HTR']
+pred: 
+['HTR']
++++++++++++++++++++++++++++++++++++++++
+250_F_2_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['JYP']
+pred: 
+['JYD', 'JY']
++++++++++++++++++++++++++++++++++++++++
+245_F_1_R_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['ES']
+pred: 
+['E5', '|', '|']
++++++++++++++++++++++++++++++++++++++++
+35_B_2_W_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['AMG']
+pred: 
+['AM', '1']
++++++++++++++++++++++++++++++++++++++++
+244_F_2_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['J25']
+pred: 
+['J25']
++++++++++++++++++++++++++++++++++++++++
+150_F_2_W_D_1.jpg
+No pill found
++++++++++++++++++++++++++++++++++++++++
+111_B_2_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['JY', 'CX']
+pred: 
+['CY', '|']
++++++++++++++++++++++++++++++++++++++++
+101_F_2_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['FT']
+pred: 
+['CFT']
++++++++++++++++++++++++++++++++++++++++
+149_F_1_R_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['ZS']
+pred: 
+['Z5']
++++++++++++++++++++++++++++++++++++++++
+149_F_1_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['A|G']
+pred: 
+['A|G']
++++++++++++++++++++++++++++++++++++++++
+115_F_2_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['2|5']
+pred: 
+['2|5']
++++++++++++++++++++++++++++++++++++++++
+118_B_1_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['2|5']
+pred: 
+['2|5']
++++++++++++++++++++++++++++++++++++++++
+37_F_2_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['UDCA']
+pred: 
+['UDCA']
++++++++++++++++++++++++++++++++++++++++
+106_F_1_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['10']
+pred: 
+['10']
++++++++++++++++++++++++++++++++++++++++
+152_B_2_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['OG', '33']
+pred: 
+['B5']
++++++++++++++++++++++++++++++++++++++++
+245_F_2_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['ES']
+pred: 
+['BS']
++++++++++++++++++++++++++++++++++++++++
+245_F_1_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['|']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+149_F_2_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['J25']
+pred: 
+['|', '|']
++++++++++++++++++++++++++++++++++++++++
+150_F_1_R_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['J25']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+151_B_2_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['2|5']
+pred: 
+['2|5']
++++++++++++++++++++++++++++++++++++++++
+35_F_1_R_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['FT']
+pred: 
+['C']
++++++++++++++++++++++++++++++++++++++++
+250_B_2_R_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['SK', 'FET']
+pred: 
+['3|']
++++++++++++++++++++++++++++++++++++++++
+105_F_2_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['ATV']
+pred: 
+['rV']
++++++++++++++++++++++++++++++++++++++++
+35_F_2_R_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['YH']
+pred: 
+['YH', '|']
++++++++++++++++++++++++++++++++++++++++
+35_F_1_R_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['10']
+pred: 
+['10']
++++++++++++++++++++++++++++++++++++++++
+115_B_1_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['ATV']
+pred: 
+['ATV']
++++++++++++++++++++++++++++++++++++++++
+116_F_1_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['ATV']
+pred: 
+['ATV']
++++++++++++++++++++++++++++++++++++++++
+250_F_1_W_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['D|W']
+pred: 
+['D|V', '|']
++++++++++++++++++++++++++++++++++++++++
+247_F_1_W_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['200']
+pred: 
+['200']
++++++++++++++++++++++++++++++++++++++++
+115_F_1_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['AMG']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+106_F_1_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['JY']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+35_F_2_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['UDCA']
+pred: 
+['UDCA', '|']
++++++++++++++++++++++++++++++++++++++++
+103_F_2_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['ES']
+pred: 
+['HS']
++++++++++++++++++++++++++++++++++++++++
+48_F_1_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['ATV']
+pred: 
+['ATI']
++++++++++++++++++++++++++++++++++++++++
+35_B_2_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['ACTOS']
+pred: 
+['ACTOS']
++++++++++++++++++++++++++++++++++++++++
+245_F_2_W_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['HM']
+pred: 
+['HM']
++++++++++++++++++++++++++++++++++++++++
+48_F_1_R_D_2.jpg
+No pill found
++++++++++++++++++++++++++++++++++++++++
+35_B_2_W_D_1.jpg
+No pill found
++++++++++++++++++++++++++++++++++++++++
+250_F_2_R_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['HM']
+pred: 
+['|M']
++++++++++++++++++++++++++++++++++++++++
+106_F_2_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['10']
+pred: 
+['10']
++++++++++++++++++++++++++++++++++++++++
+151_B_1_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['AMG']
+pred: 
+['ANG', '1']
++++++++++++++++++++++++++++++++++++++++
+39_F_1_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['ES']
+pred: 
+['B5']
++++++++++++++++++++++++++++++++++++++++
+244_F_2_R_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['FET', 'SK']
+pred: 
+['FET', 'SK']
++++++++++++++++++++++++++++++++++++++++
+149_B_1_W_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['MET']
+pred: 
+['ME']
++++++++++++++++++++++++++++++++++++++++
+247_F_1_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['JY', 'CX']
+pred: 
+['JY', 'CY']
++++++++++++++++++++++++++++++++++++++++
+107_F_2_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['T']
+pred: 
+['J']
++++++++++++++++++++++++++++++++++++++++
+107_B_1_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['JY']
+pred: 
+['|', '|', '|']
++++++++++++++++++++++++++++++++++++++++
+41_F_2_W_D_1.jpg
+No textbox found
++++++++++++++++++++++++++++++++++++++++
+250_B_1_W_D_2.jpg
+No pill found
++++++++++++++++++++++++++++++++++++++++
+102_F_1_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['D|C']
+pred: 
+['D|C', '|']
++++++++++++++++++++++++++++++++++++++++
+150_F_1_W_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['YH']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+118_B_2_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['15']
+pred: 
+['5']
++++++++++++++++++++++++++++++++++++++++
+244_F_1_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['FT']
+pred: 
+['S', '-']
++++++++++++++++++++++++++++++++++++++++
+151_F_2_R_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['DK']
+pred: 
+['DK']
++++++++++++++++++++++++++++++++++++++++
+118_B_2_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['JY', 'CX']
+pred: 
+['|', '|']
++++++++++++++++++++++++++++++++++++++++
+107_F_2_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['40']
+pred: 
+['40']
++++++++++++++++++++++++++++++++++++++++
+111_F_2_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['10']
+pred: 
+['10']
++++++++++++++++++++++++++++++++++++++++
+101_F_2_W_L_2.jpg
+No pill found
++++++++++++++++++++++++++++++++++++++++
+149_F_1_R_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['118']
+pred: 
+['118', '|']
++++++++++++++++++++++++++++++++++++++++
+41_B_1_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['A|G']
+pred: 
+['A|G']
++++++++++++++++++++++++++++++++++++++++
+250_B_2_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['2|5']
+pred: 
+['2|5']
++++++++++++++++++++++++++++++++++++++++
+250_F_2_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['16']
+pred: 
+['|C']
++++++++++++++++++++++++++++++++++++++++
+244_F_1_W_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['YH']
+pred: 
+['YH']
++++++++++++++++++++++++++++++++++++++++
+106_F_2_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['AMG']
+pred: 
+['AMG']
++++++++++++++++++++++++++++++++++++++++
+41_F_2_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['JY', 'CX']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+151_F_1_W_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['ES']
+pred: 
+['B5']
++++++++++++++++++++++++++++++++++++++++
+148_F_2_W_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['D|C']
+pred: 
+['D|']
++++++++++++++++++++++++++++++++++++++++
+152_F_1_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['40']
+pred: 
+['40']
++++++++++++++++++++++++++++++++++++++++
+149_B_2_W_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['HTR']
+pred: 
+['HTR']
++++++++++++++++++++++++++++++++++++++++
+41_B_1_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['80']
+pred: 
+['80']
++++++++++++++++++++++++++++++++++++++++
+245_F_1_W_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['T']
+pred: 
+['|', 'L']
++++++++++++++++++++++++++++++++++++++++
+37_F_2_R_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['16']
+pred: 
+['15', '|']
++++++++++++++++++++++++++++++++++++++++
+102_B_1_W_L_1.jpg
+No pill found
++++++++++++++++++++++++++++++++++++++++
+152_F_1_R_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['OG', '33']
+pred: 
+['B8']
++++++++++++++++++++++++++++++++++++++++
+149_F_2_R_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['ACTOS']
+pred: 
+['ACTOS']
++++++++++++++++++++++++++++++++++++++++
+48_F_2_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['80']
+pred: 
+['80']
++++++++++++++++++++++++++++++++++++++++
+41_B_1_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['2|5']
+pred: 
+['2|5']
++++++++++++++++++++++++++++++++++++++++
+247_B_1_R_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['HM']
+pred: 
+['HM']
++++++++++++++++++++++++++++++++++++++++
+101_F_1_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['16']
+pred: 
+['16']
++++++++++++++++++++++++++++++++++++++++
+41_B_1_R_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['|']
+pred: 
+['|', '|']
++++++++++++++++++++++++++++++++++++++++
+116_F_1_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['A|G']
+pred: 
+['A|G']
++++++++++++++++++++++++++++++++++++++++
+105_F_2_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['16']
+pred: 
+['G']
++++++++++++++++++++++++++++++++++++++++
+108_B_1_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['200']
+pred: 
+['200']
++++++++++++++++++++++++++++++++++++++++
+243_F_2_W_D_2.jpg
+No textbox found
++++++++++++++++++++++++++++++++++++++++
+116_B_2_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['EL300']
+pred: 
+['HL300', '|']
++++++++++++++++++++++++++++++++++++++++
+247_F_1_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['JYP']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+41_F_1_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['D|W']
+pred: 
+['D|W']
++++++++++++++++++++++++++++++++++++++++
+48_F_2_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['JY']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+35_F_2_W_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['D|C']
+pred: 
+['D|C', '|']
++++++++++++++++++++++++++++++++++++++++
+102_B_1_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['HM']
+pred: 
+['HM']
++++++++++++++++++++++++++++++++++++++++
+250_B_1_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['ATV']
+pred: 
+['ATV)']
++++++++++++++++++++++++++++++++++++++++
+39_F_1_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['ACTOS']
+pred: 
+['ACTOS', 'L', '|']
++++++++++++++++++++++++++++++++++++++++
+37_F_2_W_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['YH']
+pred: 
+['YH']
++++++++++++++++++++++++++++++++++++++++
+152_B_2_R_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['MET']
+pred: 
+['ME7', 'C']
++++++++++++++++++++++++++++++++++++++++
+152_F_1_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['OG', '33']
+pred: 
+['0G', '33']
++++++++++++++++++++++++++++++++++++++++
+115_F_2_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['|']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+149_F_2_W_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['80']
+pred: 
+['80']
++++++++++++++++++++++++++++++++++++++++
+41_F_2_W_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['UDCA']
+pred: 
+['UDCA', '(', '|']
++++++++++++++++++++++++++++++++++++++++
+152_F_1_W_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['2|5']
+pred: 
+['2|5']
++++++++++++++++++++++++++++++++++++++++
+247_F_1_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['D|C']
+pred: 
+['D|C', '|']
++++++++++++++++++++++++++++++++++++++++
+35_B_1_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['80']
+pred: 
+['80']
++++++++++++++++++++++++++++++++++++++++
+115_F_2_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['JY']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+243_F_2_W_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['10']
+pred: 
+['10', '|']
++++++++++++++++++++++++++++++++++++++++
+152_B_1_R_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['UDCA']
+pred: 
+['UDCA']
++++++++++++++++++++++++++++++++++++++++
+116_B_2_R_L_2.jpg
+No pill found
++++++++++++++++++++++++++++++++++++++++
+116_B_1_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['|']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+41_B_2_R_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['D|W']
+pred: 
+['D|W', '|', '|']
++++++++++++++++++++++++++++++++++++++++
+48_F_1_R_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['D|W']
+pred: 
+['D']
++++++++++++++++++++++++++++++++++++++++
+108_F_1_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['16']
+pred: 
+['16']
++++++++++++++++++++++++++++++++++++++++
+108_B_1_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['HM']
+pred: 
+['HM']
++++++++++++++++++++++++++++++++++++++++
+37_F_1_R_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['K|D']
+pred: 
+['K|D']
++++++++++++++++++++++++++++++++++++++++
+149_B_2_R_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['EL300']
+pred: 
+['HL300']
++++++++++++++++++++++++++++++++++++++++
+41_F_1_W_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['OG', '33']
+pred: 
+['33', '0G']
++++++++++++++++++++++++++++++++++++++++
+250_B_2_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['T']
+pred: 
+['|', 'C']
++++++++++++++++++++++++++++++++++++++++
+149_F_1_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['D|C']
+pred: 
+['D|C']
++++++++++++++++++++++++++++++++++++++++
+41_B_2_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['YH']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+35_F_1_W_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['2|5']
+pred: 
+['2|5']
++++++++++++++++++++++++++++++++++++++++
+250_B_2_R_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['16']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+41_B_2_R_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['ATV']
+pred: 
+['ATV']
++++++++++++++++++++++++++++++++++++++++
+109_F_1_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['YH']
+pred: 
+['Y|']
++++++++++++++++++++++++++++++++++++++++
+247_F_2_W_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['16']
+pred: 
+['16']
++++++++++++++++++++++++++++++++++++++++
+37_F_2_R_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['D-W', 'OFX']
+pred: 
+['OFX', 'D-W']
++++++++++++++++++++++++++++++++++++++++
+151_F_1_W_L_1.jpg
+No pill found
++++++++++++++++++++++++++++++++++++++++
+107_B_1_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['OG', '33']
+pred: 
+['|5']
++++++++++++++++++++++++++++++++++++++++
+37_F_1_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['40']
+pred: 
+['40']
++++++++++++++++++++++++++++++++++++++++
+35_B_1_W_L_1.jpg
+No textbox found
++++++++++++++++++++++++++++++++++++++++
+116_B_2_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['OG', '33']
+pred: 
+['33', 'AG']
++++++++++++++++++++++++++++++++++++++++
+150_F_1_W_L_1.jpg
+No pill found
++++++++++++++++++++++++++++++++++++++++
+105_F_1_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['D|W']
+pred: 
+['W', 'D', '|']
++++++++++++++++++++++++++++++++++++++++
+151_B_2_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['FT']
+pred: 
+['FT']
++++++++++++++++++++++++++++++++++++++++
+105_F_1_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['10']
+pred: 
+['10']
++++++++++++++++++++++++++++++++++++++++
+48_F_2_R_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['SK', 'FET']
+pred: 
+['FET', 'SK']
++++++++++++++++++++++++++++++++++++++++
+109_F_1_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['10']
+pred: 
+['10']
++++++++++++++++++++++++++++++++++++++++
+111_F_2_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['HM']
+pred: 
+['HM']
++++++++++++++++++++++++++++++++++++++++
+243_F_1_W_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['D-W', 'OFX']
+pred: 
+['8|']
++++++++++++++++++++++++++++++++++++++++
+103_F_2_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['118']
+pred: 
+['118', '|']
++++++++++++++++++++++++++++++++++++++++
+148_F_2_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['JYP']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+118_F_1_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['30']
+pred: 
+['30']
++++++++++++++++++++++++++++++++++++++++
+152_F_2_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['HTR']
+pred: 
+['HRR']
++++++++++++++++++++++++++++++++++++++++
+35_F_2_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['10']
+pred: 
+['10']
++++++++++++++++++++++++++++++++++++++++
+244_F_2_R_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['80']
+pred: 
+['80']
++++++++++++++++++++++++++++++++++++++++
+244_F_1_R_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['ATV']
+pred: 
+['ATV']
++++++++++++++++++++++++++++++++++++++++
+39_F_1_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['JY', 'CX']
+pred: 
+['CY', 'C']
++++++++++++++++++++++++++++++++++++++++
+41_B_2_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['JY', 'CX']
+pred: 
+['CX', 'JY']
++++++++++++++++++++++++++++++++++++++++
+116_F_2_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['MET']
+pred: 
+['ME']
++++++++++++++++++++++++++++++++++++++++
+102_F_2_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['16']
+pred: 
+['1G', 'C']
++++++++++++++++++++++++++++++++++++++++
+250_B_1_R_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['200']
+pred: 
+['200', '|', '|']
++++++++++++++++++++++++++++++++++++++++
+104_F_2_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['15']
+pred: 
+['15']
++++++++++++++++++++++++++++++++++++++++
+247_B_2_R_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['JY']
+pred: 
+['YH', '3.']
++++++++++++++++++++++++++++++++++++++++
+250_F_1_R_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['Alrtal']
+pred: 
+['Airtal']
++++++++++++++++++++++++++++++++++++++++
+118_F_2_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['|']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+35_F_1_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['AMG']
+pred: 
+['AMG', '|']
++++++++++++++++++++++++++++++++++++++++
+48_F_2_R_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['10']
+pred: 
+['10']
++++++++++++++++++++++++++++++++++++++++
+244_F_1_W_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['ATV']
+pred: 
+['AT']
++++++++++++++++++++++++++++++++++++++++
+245_F_2_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['HM']
+pred: 
+['IVI']
++++++++++++++++++++++++++++++++++++++++
+149_B_1_R_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['JY', 'CX']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+244_F_2_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['J25']
+pred: 
+['J25']
++++++++++++++++++++++++++++++++++++++++
+111_B_2_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['T']
+pred: 
+['Jr']
++++++++++++++++++++++++++++++++++++++++
+151_F_1_R_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['JY', 'CX']
+pred: 
+['JY', 'CX']
++++++++++++++++++++++++++++++++++++++++
+247_F_1_W_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['ZS']
+pred: 
+['ZS', '|']
++++++++++++++++++++++++++++++++++++++++
+103_F_1_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['40']
+pred: 
+['40']
++++++++++++++++++++++++++++++++++++++++
+118_F_2_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['JY']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+152_B_2_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['30']
+pred: 
+['30', '|']
++++++++++++++++++++++++++++++++++++++++
+150_F_2_R_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['DK']
+pred: 
+['C']
++++++++++++++++++++++++++++++++++++++++
+116_B_1_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['|']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+107_F_1_W_L_1.jpg
+No pill found
++++++++++++++++++++++++++++++++++++++++
+150_F_2_R_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['D|W']
+pred: 
+['D|W', '-']
++++++++++++++++++++++++++++++++++++++++
+149_B_2_W_L_1.jpg
+No textbox found
++++++++++++++++++++++++++++++++++++++++
+35_B_1_R_D_2.jpg
+No pill found
++++++++++++++++++++++++++++++++++++++++
+250_F_1_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['T']
+pred: 
+['-D']
++++++++++++++++++++++++++++++++++++++++
+149_B_1_R_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['10']
+pred: 
+['C']
++++++++++++++++++++++++++++++++++++++++
+118_F_1_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['AMG']
+pred: 
+['AMG']
++++++++++++++++++++++++++++++++++++++++
+151_F_1_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['T']
+pred: 
+['Cr', '|']
++++++++++++++++++++++++++++++++++++++++
+244_F_1_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['DK']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+245_F_2_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['40']
+pred: 
+['40']
++++++++++++++++++++++++++++++++++++++++
+150_F_1_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['JY', 'CX']
+pred: 
+['CX', '|']
++++++++++++++++++++++++++++++++++++++++
+247_F_1_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['J25']
+pred: 
+['J2', '|']
++++++++++++++++++++++++++++++++++++++++
+247_B_1_R_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['FT']
+pred: 
+['FT']
++++++++++++++++++++++++++++++++++++++++
+39_F_2_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['JY']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+151_F_2_W_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['|']
+pred: 
+['|', '|']
++++++++++++++++++++++++++++++++++++++++
+152_B_1_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['MET']
+pred: 
+['|', 'ME']
++++++++++++++++++++++++++++++++++++++++
+35_B_2_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['40']
+pred: 
+['40']
++++++++++++++++++++++++++++++++++++++++
+247_B_2_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['|']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+35_B_2_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['10']
+pred: 
+['10']
++++++++++++++++++++++++++++++++++++++++
+150_F_1_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['|']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+101_F_1_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['10']
+pred: 
+['10']
++++++++++++++++++++++++++++++++++++++++
+149_B_1_W_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['FT']
+pred: 
+['FT']
++++++++++++++++++++++++++++++++++++++++
+41_F_2_R_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['A|G']
+pred: 
+['A|G', '|']
++++++++++++++++++++++++++++++++++++++++
+149_B_1_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['T']
+pred: 
+['T']
++++++++++++++++++++++++++++++++++++++++
+243_F_1_W_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['D|C']
+pred: 
+['D|C']
++++++++++++++++++++++++++++++++++++++++
+109_F_2_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['T']
+pred: 
+['1']
++++++++++++++++++++++++++++++++++++++++
+243_F_2_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['JYP']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+103_F_1_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['D-W', 'OFX']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+107_F_2_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['JYP']
+pred: 
+['JYP']
++++++++++++++++++++++++++++++++++++++++
+149_B_1_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['30']
+pred: 
+['30', '|']
++++++++++++++++++++++++++++++++++++++++
+148_F_2_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['E']
+pred: 
+['-']
++++++++++++++++++++++++++++++++++++++++
+37_F_1_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['T']
+pred: 
+['Tr']
++++++++++++++++++++++++++++++++++++++++
+244_F_2_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['HTR']
+pred: 
+['HTR']
++++++++++++++++++++++++++++++++++++++++
+39_F_2_R_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['OG', '33']
+pred: 
+['33', 'OG']
++++++++++++++++++++++++++++++++++++++++
+116_F_1_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['JY', 'CX']
+pred: 
+['CX']
++++++++++++++++++++++++++++++++++++++++
+117_F_1_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['MET']
+pred: 
+['MET']
++++++++++++++++++++++++++++++++++++++++
+102_F_1_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['200']
+pred: 
+['200', '|']
++++++++++++++++++++++++++++++++++++++++
+109_F_2_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['BM', 'B3']
+pred: 
+['BM', 'B3']
++++++++++++++++++++++++++++++++++++++++
+118_B_1_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['15']
+pred: 
+['|5', '|']
++++++++++++++++++++++++++++++++++++++++
+102_F_2_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['D-W', 'OFX']
+pred: 
+['D-W', 'OFX']
++++++++++++++++++++++++++++++++++++++++
+152_F_2_R_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['10']
+pred: 
+['10', '1']
++++++++++++++++++++++++++++++++++++++++
+149_B_2_W_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['15']
+pred: 
+['5']
++++++++++++++++++++++++++++++++++++++++
+247_F_2_R_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['80']
+pred: 
+['80']
++++++++++++++++++++++++++++++++++++++++
+105_F_1_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['T']
+pred: 
+['|', '-']
++++++++++++++++++++++++++++++++++++++++
+109_F_2_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['JY']
+pred: 
+['JY']
++++++++++++++++++++++++++++++++++++++++
+149_B_2_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['10']
+pred: 
+['10']
++++++++++++++++++++++++++++++++++++++++
+35_F_2_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['D-W', 'OFX']
+pred: 
+['8|']
++++++++++++++++++++++++++++++++++++++++
+41_F_1_W_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['T']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+117_F_2_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['ATV']
+pred: 
+['ATY']
++++++++++++++++++++++++++++++++++++++++
+250_F_1_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['D|C']
+pred: 
+['D|C', '|']
++++++++++++++++++++++++++++++++++++++++
+151_F_1_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['BM', 'B3']
+pred: 
+['BM', 'B3', '|']
++++++++++++++++++++++++++++++++++++++++
+35_F_2_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['AMG']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+115_B_1_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['40']
+pred: 
+['40']
++++++++++++++++++++++++++++++++++++++++
+108_F_2_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['ATV']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+150_F_2_W_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['D|W']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+250_B_1_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['K|D']
+pred: 
+['K|D', '|']
++++++++++++++++++++++++++++++++++++++++
+108_F_2_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['FT']
+pred: 
+['C']
++++++++++++++++++++++++++++++++++++++++
+148_F_1_R_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['YH']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+113_F_2_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['K|D']
+pred: 
+['K|D']
++++++++++++++++++++++++++++++++++++++++
+39_F_1_R_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['HTR']
+pred: 
+['HTR']
++++++++++++++++++++++++++++++++++++++++
+109_F_1_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['ADCX']
+pred: 
+['ADCX', '|']
++++++++++++++++++++++++++++++++++++++++
+102_B_1_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['MET']
+pred: 
+['MET']
++++++++++++++++++++++++++++++++++++++++
+104_F_1_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['D-W', 'OFX']
+pred: 
+['8', '|']
++++++++++++++++++++++++++++++++++++++++
+250_B_1_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['ACTOS']
+pred: 
+['ACTO5', '|']
++++++++++++++++++++++++++++++++++++++++
+117_F_1_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['Alrtal']
+pred: 
+['Airta']
++++++++++++++++++++++++++++++++++++++++
+37_F_1_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['JY']
+pred: 
+['YH']
++++++++++++++++++++++++++++++++++++++++
+149_F_1_W_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['BM', 'B3']
+pred: 
+['BM', 'B3', '-', '|']
++++++++++++++++++++++++++++++++++++++++
+116_B_2_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['OG', '33']
+pred: 
+['33', 'OG']
++++++++++++++++++++++++++++++++++++++++
+247_B_2_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['2|5']
+pred: 
+['2|5']
++++++++++++++++++++++++++++++++++++++++
+151_B_1_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['D|W']
+pred: 
+['|', '|']
++++++++++++++++++++++++++++++++++++++++
+115_F_1_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['|']
+pred: 
+['|']
++++++++++++++++++++++++++++++++++++++++
+37_F_2_W_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['SK', 'FET']
+pred: 
+['FET', 'SK']
++++++++++++++++++++++++++++++++++++++++
+152_B_1_W_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['UDCA']
+pred: 
+['UDCA']
++++++++++++++++++++++++++++++++++++++++
+117_F_1_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['OG', '33']
+pred: 
+['||']
++++++++++++++++++++++++++++++++++++++++
+48_F_1_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['|']
+pred: 
+['1']
++++++++++++++++++++++++++++++++++++++++
+41_F_1_R_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['BM', 'B3']
+pred: 
+['|', '|']
++++++++++++++++++++++++++++++++++++++++
+113_F_1_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['HM']
+pred: 
+['HN']
++++++++++++++++++++++++++++++++++++++++
+151_F_1_W_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['D|C']
+pred: 
+['D|C']
++++++++++++++++++++++++++++++++++++++++
+102_B_2_W_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['ADCX']
+pred: 
+['ADCX']
++++++++++++++++++++++++++++++++++++++++
+149_F_2_W_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['40']
+pred: 
+['40']
++++++++++++++++++++++++++++++++++++++++
+102_F_2_R_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['ACTOS']
+pred: 
+['ACTOS']
++++++++++++++++++++++++++++++++++++++++
+148_F_1_W_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['2|5']
+pred: 
+['|5']
++++++++++++++++++++++++++++++++++++++++
+37_F_1_W_D_2.jpg
+Finished loading CRNN model!
+labels: 
+['15']
+pred: 
+['15', '|', '|']
++++++++++++++++++++++++++++++++++++++++
+107_F_2_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['HTR']
+pred: 
+['HTR']
++++++++++++++++++++++++++++++++++++++++
+250_F_1_W_L_1.jpg
+Finished loading CRNN model!
+labels: 
+['OG', '33']
+pred: 
+['33']
++++++++++++++++++++++++++++++++++++++++
+41_B_2_W_D_1.jpg
+No textbox found
++++++++++++++++++++++++++++++++++++++++
+41_B_1_W_D_1.jpg
+Finished loading CRNN model!
+labels: 
+['AMG']
+pred: 
+['AM']
++++++++++++++++++++++++++++++++++++++++
+151_B_2_R_L_2.jpg
+Finished loading CRNN model!
+labels: 
+['16']
+pred: 
+['6']
+Finished loading CRNN model!
+labels: 
+['16']
+pred: 
+['16']
+Finished loading CRNN model!
+labels: 
+['FET', 'SK']
+pred: 
+['FET', 'SK']
+Accuracy, norm_ED:
+63.20582877959927 0.6703703703703703

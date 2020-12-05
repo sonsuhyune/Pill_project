@@ -1,0 +1,18 @@
+39_F_2_R_D_1.jpg
+pred: ['MET']
+gt: ['MET']
+39_F_2_R_D_1.jpg
+pred: ['MET']
+gt: ['MET']
+39_F_2_R_D_1.jpg
+pred: ['MET']
+gt: ['MET']
+39_F_2_R_D_1.jpg
+pred: ['MET']
+gt: ['MET']
+39_F_2_R_D_1.jpg
+pred: ['MET']
+gt: ['MET']
+39_F_2_R_D_1.jpg
+pred: ['MET']
+gt: ['MET']
