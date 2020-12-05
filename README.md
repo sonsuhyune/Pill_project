@@ -168,6 +168,18 @@ EWHA CSE 졸업프로젝트-스마트폰을 이용한 알약 인식 및 정보 �
 
 ### 참고 자료
 
+[로그인 기능 구현](https://cholol.tistory.com/397?category=572900)
+
+[Socker 통신](https://m.blog.naver.com/PostView.nhn?blogId=davincigo&logNo=60144475819&proxyReferer=https:%2F%2Fwww.google.co.kr%2F)
+
+[주기적인 알림 구현](https://drcarter.tistory.com/152)
+
+[안드로이드에서 서버로 이미지 전송](https://gyjmobile.tistory.com/entry/Bitmap-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-byte%EB%A1%9C-%EB%B0%94%EB%A1%9C-%EB%B3%B4%EB%82%B8%EB%8B%A4%EA%B3%A0-%EA%B7%B8%EA%B2%83%EB%8F%84-%EC%86%8C%EC%BC%93%EC%9C%BC%EB%A1%9C)
+
+[식별마크 교정을 위한 Seq2Seq](https://github.com/mdcramer/Deep-Speeling)
+
+(팀원 기술 블로그)
+
 [TCP Socket 통신](https://hwanglex.tistory.com/3 )
 
 [DB에 저장된 알약 정보 가져오기](https://coding-and-ai.tistory.com/5)
