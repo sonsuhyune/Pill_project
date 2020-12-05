@@ -1,8 +1,14 @@
 # 내 손안의 약국
 EWHA CSE 졸업프로젝트-스마트폰을 이용한 알약 인식 및 정보 제공 시스템
-  
+
 [Android개발 Github](https://github.com/sonsuhyune/PillProject_androidApp) 
 ​                                          
+
+[어플리케이션 시연영상](https://youtu.be/qbGNYfPwMvA) 
+
+
+
+
 
 #### 문제 정의
 
@@ -110,23 +116,11 @@ EWHA CSE 졸업프로젝트-스마트폰을 이용한 알약 인식 및 정보 �
 
 ##### Pill detection - YOLO
 
-- label: pill
-
-- 하이퍼파라미터: batch size 32, epoch 600, learning rate 0.000001
-
-- 입력이미지를 416x416 크기로 resize한 후 Gray scale 적용
-
 - 학습 결과: 87.9%의 Average precision
 
   <img src="img/yolo.PNG" style="zoom:67%;" />
 
 ##### Text detection - EAST
-
-* label: text
-
-* 하이퍼파라미터: batch size 32, epoch 300, learning rate 0.001
-
-* 입력이미지를 256x256 크기로 resize
 
 * 학습 결과: 94.5%의 Average precision     
 
@@ -136,10 +130,6 @@ EWHA CSE 졸업프로젝트-스마트폰을 이용한 알약 인식 및 정보 �
 
 ##### Text recognition - CRNN
 
-* 하이퍼파라미터: batch size 384, learning rate 1, iiteration 300000
-
-* 사용자가 항상 정방향의 이미지를 찍는다는 보장이 없기 때문에 **모든 학습 이미지를 좌우 30도 회전시킨 후** 학습
-
 * 학습 결과: 86.39%의 Recognition accuracy     
 
 * 학습 데이터 및 테스트 데이터: 구축한 데이터에서 **글자 부분**을 코드로 일괄적으로 잘라 활용
@@ -147,8 +137,6 @@ EWHA CSE 졸업프로젝트-스마트폰을 이용한 알약 인식 및 정보 �
   <img src="img/crnn.PNG" style="zoom:50%;" />
 
 ##### 식별마크 교정을 위한 Seq2Seq
-
-* 잘못예측하는 경우를 포함한 모든 CRNN의 예측값(식별마크)을 source로, 정답 식별마크를 target으로학습
 
 * 학습 결과: 주변 context를 함께 학습한다는 모델의 특성때문에, 비교적 길이가 짧은 문자의 경우 정확도가 크게 개선되지 않음. 
 
@@ -176,9 +164,17 @@ EWHA CSE 졸업프로젝트-스마트폰을 이용한 알약 인식 및 정보 �
 
 <img src="img/모식도.PNG" style="zoom:50%;" />
 
-#### 어플리케이션 시연영상
 
-   [ youtube](https://youtu.be/qbGNYfPwMvA) 
+
+### 참고 자료
+
+[TCP Socket 통신](https://hwanglex.tistory.com/3 )
+
+[DB에 저장된 알약 정보 가져오기](https://coding-and-ai.tistory.com/5)
+
+[복용 알림 구현](https://suhyune-story.tistory.com/4)
+
+[식별마크 교정 모델](https://run-jinyeah.tistory.com/5)
 
 ### Team
 
