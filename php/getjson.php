@@ -1,22 +1,32 @@
 <?php
-//$con=mysqli_connect( "localhost", "pill", "pilldb", "pill_info");
-//if(mysql_connect_errno($con)){
-//    echo "Failed to connect to MySQL" . mysqli_connect_error();
-//}
+  
+    error_reporting(E_ALL);
+    ini_set('display_errors',1);
 
-//mysqli_set_charset($con, "utf8");
+    include('dbcon.php');
 
-include('dbcon.php');
-$res = mysqli_query($con,"select * from TEST");
 
-$result = array();
+    $stmt = $con->prepare('select * from pilltest');
+    $stmt->execute();
 
-while($row = mysqli_fetch_array($res)){
-        echo json_encode(array("result"=>$result));
-        array_push($result,array('name'=>$row[0],'test1'=>$row[1],'test2'=>$row[2]));
-}
+    if ($stmt->rowCount() > 0)
+    {
+        $data = array();
 
-echo json_encode(array("result"=>$result));
+        while($row=$stmt->fetch(PDO::FETCH_ASSOC))
+        {
+            extract($row);
 
-mysqli_close($con);
+            array_push($data,
+                array('[34m~R~H목[34m~]m| [m~H[34m~Xm=>$4m~R~H목4m~]34m| [34m~H4m~X22;17H'[34m~R~H목m~E'=>$4m~R~H목34m~E,
+
+                '[34m~W~E[34m~F~L[34m~]m| [m~H[34m~Xm=>$4m~W~E4m~F~L4m~]34m| [34m~H4m~X4;13H));
+
+        }
+
+        header('Content-Type: application/json; charset=utf8');
+        $json = json_encode(array("webnautes"=>$data), JSON_PRETTY_PRINT+JSON_UNESCAPED_UNICODE);
+        echo $json;
+    }
+
 ?>

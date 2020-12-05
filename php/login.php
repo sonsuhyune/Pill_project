@@ -1,11 +1,11 @@
 <?php
   header('content-type: text/html; charset=utf-8');
-  // 데이터베이스 접속 문자열. (db위치, 유저 이름, 비밀번호)
-  $connect=mysqli_connect( "localhost", "pill", "pilldb", "userinfo") or die( "SQL server에 연결할 수 없습니다.");
+  //  QM 문P. (dbD,  @ , )
+  $connect=mysqli_connect( "localhost", "pill", "pilldb", "userinfo") or die( "SQL server[34m~W~P [34m~W[34m~U|  [34m~H~X [34m~W~F[34m~Jm~K~H[34m~K5;1H.");
 
   mysqli_query("SET NAMES UTF8");
 
-  // 세션 시작
+  // X \Q
   session_start();
 
   $id = $_POST['u_id'];
@@ -25,7 +25,7 @@
     }
     else
     {
-      echo "$row[pw_chk]";   // 0이면 비밀번호 불일치, 1이면 일치
+      echo "$row[pw_chk]";   // 0면  , 1면 [m
     }
   }
   else

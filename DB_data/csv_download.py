@@ -48,6 +48,7 @@ def main():
     logging.basicConfig(filename='csv_download.log', filemode='w', level=logging.INFO)
     
     logging.info("Opening excel files...")
+    """
     data_detail = pd.read_excel('csv/pill_details.xls')
     data_detail = data_detail[['품목일련번호', '허가일자', '원료성분', '마약류분류', '완제원료구분', '포장단위', '보험코드', '전문일반', '총량', '취소상태',
            '변경내용', '등록자id', '첨부문서', '제심사기간', '효능효과', '저장방법', '신약여부', '유효기간',
@@ -61,6 +62,8 @@ def main():
            '표기이미지뒤', '표기코드앞', '표기코드뒤', '변경일자']]
 
     new_Data = pd.merge(data_list, data_detail, on='품목일련번호')
+    """
+    new_Data = pd.read_csv("test_data_T2.csv",sep=',', error_bad_lines=False, encoding='euc-kr')
 
     img = '큰제품이미지'
     eff = '효능효과'
@@ -83,7 +86,7 @@ def main():
         try:
             file_name = str(pill_id)+'_img'
             download_save_img(pill_img, 'img/'+file_name+'.jpg')
-            new_Data.iloc[idx,4] = file_name+'.jpg'
+            new_Data.iloc[idx,7] = file_name+'.jpg'
             logging.info("image Done.")
         except:
             logging.info("image FAIL")
@@ -93,7 +96,7 @@ def main():
             file_name = str(pill_id)+'_effect'
             download_pdf(pill_eff, 'pdf/'+file_name+'.pdf')
             text = read_and_return('pdf/'+file_name+'.pdf')
-            new_Data.iloc[idx,41] = text
+            new_Data.iloc[idx,4] = text
             logging.info("effect Done.")
         except:
             logging.info("effect FAIL")
@@ -106,7 +109,7 @@ def main():
             file_name = str(pill_id)+'_usage'
             download_pdf(pill_use, 'pdf/'+file_name+'.pdf')
             text = read_and_return('pdf/'+file_name+'.pdf')
-            new_Data.iloc[idx,45] = text
+            new_Data.iloc[idx,5] = text
             logging.info("usage Done.")
         except:
             logging.info("usage FAIL")
@@ -119,21 +122,17 @@ def main():
             file_name = str(pill_id)+'_warning'
             download_pdf(pill_war, 'pdf/'+file_name+'.pdf')
             text = read_and_return('pdf/'+file_name+'.pdf')
-            new_Data.iloc[idx,52] = text
+            new_Data.iloc[idx,8] = text
             logging.info("warning Done.")
         except:
             logging.info("warning FAIL")
             
         if os.path.isfile('pdf/'+file_name+'.pdf'):
             os.remove('pdf/'+file_name+'.pdf')
-
-    logging.info("Saving an excel file...")
-    writer = pd.ExcelWriter("csv/pill_information.xlsx")
-    new_Data.to_excel(writer)
-    writer.save
+            
+    new_Data.to_csv("csv/test_data_T2.tsv", sep="\t")
     
     logging.info("Saving an csv file...")
-    new_Data.to_csv("csv/pill_information.csv", "w")
     logging.info("Done")
     
 if __name__ == "__main__":

@@ -1,5 +1,5 @@
 <?php
-
+  
 header('content-type: text/html; charset=utf-8');
 
 $connect=mysqli_connect('localhost', 'pill', 'pilldb', 'userinfo') or
@@ -15,9 +15,9 @@ $pill_name = $_POST[pill_name];
 $img_path = $_POST[img_path];
 
 
-$sql_chk = INSERT INTO pill(user_id,pill_name,pill_nickname, img) VALUES ($id, $pill_name, $nick, $img_path);
 
-#$result_chk = mysqli_query($connect, $sql_chk);
-#echo "0";
+$sql = "INSERT INTO pill(user_id, pill_name,pill_nickname,img) VALUES('$id','$pill_name','$nick','$img_path')";
+$result = mysqli_query($connect, $sql);
+echo "0";
 
 ?>
