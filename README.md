@@ -180,7 +180,7 @@ EWHA CSE 졸업프로젝트-스마트폰을 이용한 알약 인식 및 정보 �
 
 (팀원 기술 블로그)
 
-[TCP Socket 통신](https://hwanglex.tistory.com/3 )
+[TCP Socket 통신](https://hwanglex.tistory.com/5 )
 
 [DB에 저장된 알약 정보 가져오기](https://coding-and-ai.tistory.com/5)
 
