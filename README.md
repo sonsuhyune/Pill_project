@@ -8,8 +8,7 @@ EWHA CSE 졸업프로젝트-스마트폰을 이용한 알약 인식 및 정보 �
 
 [포스터 발표 영상](https://youtu.be/UklIpp0yBKc)
 
-[한국정보과학회 KSC2020](http://ksc2020.kiise.or.kr/wp/Home.asp) Poster Session Accept
-                   장려상 수상
+[한국정보과학회 KSC2020](http://ksc2020.kiise.or.kr/wp/Home.asp) Poster Session Accept 및 장려상 수상
                    
 
 
